@@ -1,0 +1,9 @@
+dependency_overrides:
+  window_controls_platform_interface:
+    path: ../../window_controls_platform_interface
+  window_controls_windows:
+    path: ../../window_controls_windows
+  window_controls_macos:
+    path: ../../window_controls_macos
+  window_controls_linux:
+    path: ../../window_controls_linux

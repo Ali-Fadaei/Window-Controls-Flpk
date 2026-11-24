@@ -1,0 +1,3 @@
+dependency_overrides:
+  window_controls_platform_interface:
+    path: ../window_controls_platform_interface

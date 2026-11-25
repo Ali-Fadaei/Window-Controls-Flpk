@@ -1,5 +1,5 @@
 import 'package:window_controls_platform_interface/window_controls_platform_interface.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:flutter/painting.dart';
 import './window_util.dart';
 import './native_api.dart';

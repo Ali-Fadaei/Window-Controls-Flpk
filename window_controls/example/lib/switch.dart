@@ -6,7 +6,7 @@ auto wctl = window_controls_configure(WCTL_CUSTOM_FRAME | WCTL_HIDE_ON_STARTUP);
 
 */
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:window_controls/window_controls.dart';
 
 class AppSkin {

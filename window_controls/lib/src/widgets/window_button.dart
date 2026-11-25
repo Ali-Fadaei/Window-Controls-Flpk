@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 import './mouse_state_builder.dart';
 import '../icons/icons.dart';
@@ -47,7 +47,7 @@ class WindowButtonColors {
 }
 
 final _defaultButtonColors = WindowButtonColors(
-    normal: Colors.transparent,
+    normal: Color(0x00000000),
     iconNormal: Color(0xFF805306),
     mouseOver: Color(0xFF404040),
     mouseDown: Color(0xFF202020),
@@ -66,7 +66,7 @@ class WindowButton extends StatelessWidget {
       {Key? key,
       WindowButtonColors? colors,
       this.builder,
-      @required this.iconBuilder,
+      this.iconBuilder,
       this.padding,
       this.onPressed,
       this.animate = false})
@@ -113,7 +113,7 @@ class WindowButton extends StatelessWidget {
             (appWindow.titleBarHeight - borderSize) / 3 - (borderSize / 2);
         // Used when buttonContext.backgroundColor is null, allowing the AnimatedContainer to fade-out smoothly.
         var fadeOutColor =
-            getBackgroundColor(MouseState()..isMouseOver = true).withOpacity(0);
+            getBackgroundColor(MouseState()..isMouseOver = true).withAlpha(0);
         var padding = this.padding ?? EdgeInsets.all(defaultPadding);
         var animationMs =
             mouseState.isMouseOver ? (animate ? 100 : 0) : (animate ? 200 : 0);

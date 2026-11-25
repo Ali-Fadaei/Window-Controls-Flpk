@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Use `widgets.dart` instead of the deprecated `material.dart` import.
+
 ## 0.1.0
 
 - Initial release of `window_controls_macos`, based on bitsdojo_window 0.1.6 (MIT).

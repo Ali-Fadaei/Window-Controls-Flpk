@@ -1,7 +1,7 @@
 // Don't forget to make the changes mentioned in
 // https://github.com/Ali-Fadaei/Window-Controls-Flpk#getting-started
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:window_controls/window_controls.dart';
 
 void main() {

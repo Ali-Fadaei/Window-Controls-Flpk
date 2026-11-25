@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fix deprecation warnings: use `widgets.dart` instead of `material.dart`, `withAlpha` instead of `withOpacity`, drop the old `@required` annotation.
+
 ## 0.1.0
 
 - Initial release of `window_controls`, based on bitsdojo_window 0.1.6 (MIT).

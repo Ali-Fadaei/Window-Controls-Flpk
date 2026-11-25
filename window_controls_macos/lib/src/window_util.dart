@@ -12,7 +12,8 @@ ScreenInfo getScreenInfoForWindow(int window) {
   var result = ScreenInfo();
   final Pointer<WCTLScreenInfo> screenInfoPointer = newWCTLScreenInfo();
   final wctlResult = getScreenInfoNative(window, screenInfoPointer);
-  final Pointer<WCTLRect> workingRectPointer = screenInfoPointer.ref.workingRect;
+  final Pointer<WCTLRect> workingRectPointer =
+      screenInfoPointer.ref.workingRect;
   final Pointer<WCTLRect> fullRectPointer = screenInfoPointer.ref.fullRect;
   WCTLRect workingRect = workingRectPointer.ref;
   WCTLRect fullRect = fullRectPointer.ref;

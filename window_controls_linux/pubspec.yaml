@@ -1,12 +1,12 @@
 name: window_controls_linux
 description: Linux implementation of the window_controls plugin, which provides custom window frames, title bars and window controls for Flutter desktop.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/Ali-Fadaei/Window-Controls-Flpk
 issue_tracker: https://github.com/Ali-Fadaei/Window-Controls-Flpk/issues
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
-  flutter: ">=3.10.0"
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.19.0"
 
 dependencies:
   flutter:

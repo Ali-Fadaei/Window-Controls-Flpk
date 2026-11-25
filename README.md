@@ -2,15 +2,15 @@
 [![Pub Popularity](https://img.shields.io/pub/popularity/window_controls)](https://pub.dev/packages/window_controls)
 [![Pub Points](https://img.shields.io/pub/points/window_controls)](https://pub.dev/packages/window_controls)
 
-[![GitHub Stars](https://img.shields.io/github/stars/ali-fadaei/window_controls)](https://github.com/ali-fadaei/window_controls/stargazers)
-[![Build Test](https://github.com/ali-fadaei/window_controls/actions/workflows/build_test.yaml/badge.svg)](https://github.com/ali-fadaei/window_controls/actions/workflows/build_test.yaml)
-[![GitHub License](https://img.shields.io/github/license/ali-fadaei/window_controls)](https://github.com/ali-fadaei/window_controls/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Ali-Fadaei/Window-Controls-Flpk)](https://github.com/Ali-Fadaei/Window-Controls-Flpk/stargazers)
+[![Build Test](https://github.com/Ali-Fadaei/Window-Controls-Flpk/actions/workflows/build_test.yaml/badge.svg)](https://github.com/Ali-Fadaei/Window-Controls-Flpk/actions/workflows/build_test.yaml)
+[![GitHub License](https://img.shields.io/github/license/Ali-Fadaei/Window-Controls-Flpk)](https://github.com/Ali-Fadaei/Window-Controls-Flpk/blob/main/LICENSE)
 
 # window_controls
 
 A [Flutter package](https://pub.dev/packages/window_controls) that makes it easy to customize and work with your Flutter desktop app window on **Windows**, **macOS** and **Linux**.
 
-<img src="https://raw.githubusercontent.com/ali-fadaei/window_controls/main/resources/screenshot.png">
+<img src="https://raw.githubusercontent.com/Ali-Fadaei/Window-Controls-Flpk/main/resources/screenshot.png">
 
 **Features**:
 

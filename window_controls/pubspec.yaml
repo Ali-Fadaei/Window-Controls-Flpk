@@ -1,8 +1,8 @@
 name: window_controls
 description: Custom window frames, title bars and minimize/maximize/close buttons for Flutter desktop apps, plus common window operations, on Windows, macOS and Linux.
 version: 0.1.0
-repository: https://github.com/ali-fadaei/window_controls
-issue_tracker: https://github.com/ali-fadaei/window_controls/issues
+repository: https://github.com/Ali-Fadaei/Window-Controls-Flpk
+issue_tracker: https://github.com/Ali-Fadaei/Window-Controls-Flpk/issues
 topics:
   - desktop
   - window

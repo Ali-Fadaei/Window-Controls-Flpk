@@ -1,8 +1,8 @@
 name: window_controls_platform_interface
 description: A common platform interface for the window_controls plugin. Used by the platform implementations, not by apps directly.
 version: 0.1.0
-repository: https://github.com/ali-fadaei/window_controls
-issue_tracker: https://github.com/ali-fadaei/window_controls/issues
+repository: https://github.com/Ali-Fadaei/Window-Controls-Flpk
+issue_tracker: https://github.com/Ali-Fadaei/Window-Controls-Flpk/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

@@ -1,5 +1,5 @@
 // Don't forget to make the changes mentioned in
-// https://github.com/ali-fadaei/window_controls#getting-started
+// https://github.com/Ali-Fadaei/Window-Controls-Flpk#getting-started
 
 import 'package:flutter/material.dart';
 import 'package:window_controls/window_controls.dart';
